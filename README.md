@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/dapseen/go-pipeline/_apis/build/status/dapseen.pipelines-go?branchName=master)](https://dev.azure.com/dapseen/go-pipeline/_build/latest?definitionId=3&branchName=master)
 
 # Contributing
 
